@@ -1,0 +1,11 @@
+C:\Users\Terok\Dropbox\Programování\C#\Konzolové aplikace\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe
+C:\Users\Terok\Dropbox\Programování\C#\Konzolové aplikace\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.pdb
+C:\Users\Terok\Dropbox\Programování\C#\Konzolové aplikace\Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.exe
+C:\Users\Terok\Dropbox\Programování\C#\Konzolové aplikace\Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.pdb
+C:\Users\Terok\Dropbox\Programování\C#\Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.exe
+C:\Users\Terok\Dropbox\Programování\C#\Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.pdb
+C:\Users\Terok\Dropbox\Programování\C#\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe
+C:\Users\Terok\Dropbox\Programování\C#\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.pdb
+C:\Users\Terok\Dropbox\Programování\C#\Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.csprojResolveAssemblyReference.cache
+C:\Users\Terok\Dropbox\Programování\C#\[KONZOLE] Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.exe
+C:\Users\Terok\Dropbox\Programování\C#\[KONZOLE] Kalkulačka\Kalkulačka\obj\x86\Debug\Kalkulačka.pdb
